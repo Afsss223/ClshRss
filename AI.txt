@@ -1,4 +1,3 @@
-##在线IP段转CIDR地址：http://ip2cidr.com
 - DOMAIN-SUFFIX,bing.com,🤖 OpenAI
 - DOMAIN-SUFFIX,bing.com.cn,🤖 OpenAI
 - DOMAIN-SUFFIX,bing.net,🤖 OpenAI
