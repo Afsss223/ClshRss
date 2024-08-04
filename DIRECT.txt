@@ -1,6 +1,5 @@
-##在线IP段转CIDR地址：http://ip2cidr.com
-- DOMAIN-SUFFIX,aclink.top,DIRECT
-- DOMAIN-SUFFIX,frp.104300.xyz,DIRECT
-- DOMAIN-SUFFIX,safe.bt.sy,DIRECT
-- DOMAIN-SUFFIX,parsec.app,DIRECT
-- DOMAIN-SUFFIX,cn-hk-bgp-6.ofalias.net,DIRECT
+DOMAIN-SUFFIX,aclink.top
+DOMAIN-SUFFIX,frp.104300.xyz
+DOMAIN-SUFFIX,safe.bt.sy
+DOMAIN-SUFFIX,parsec.app
+DOMAIN-SUFFIX,cn-hk-bgp-6.ofalias.net
