@@ -1,0 +1,5 @@
+- DOMAIN-SUFFIX,aclink.top,DIRECT
+- DOMAIN-SUFFIX,frp.104300.xyz,DIRECT
+- DOMAIN-SUFFIX,safe.bt.sy,DIRECT
+- DOMAIN-SUFFIX,parsec.app,DIRECT
+- DOMAIN-SUFFIX,cn-hk-bgp-6.ofalias.net,DIRECT
